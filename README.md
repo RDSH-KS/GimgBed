@@ -1,2 +1,2 @@
 # GimgBed
-Github imags bed
+Github Imags Bed
